@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderSol", "StringBuilderSol\StringBuilderSol.csproj", "{CEF9EB56-D845-40FE-ABBA-90D0638C7F32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassSol", "ClassSol\ClassSol.csproj", "{77C06E32-557B-4B39-B86F-8EA6BCE39594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewAssembly", "NewAssembly\NewAssembly.csproj", "{B66A3F16-3D86-43C8-874E-49FCF5FBB01B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CEF9EB56-D845-40FE-ABBA-90D0638C7F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEF9EB56-D845-40FE-ABBA-90D0638C7F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEF9EB56-D845-40FE-ABBA-90D0638C7F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C06E32-557B-4B39-B86F-8EA6BCE39594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C06E32-557B-4B39-B86F-8EA6BCE39594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C06E32-557B-4B39-B86F-8EA6BCE39594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C06E32-557B-4B39-B86F-8EA6BCE39594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66A3F16-3D86-43C8-874E-49FCF5FBB01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66A3F16-3D86-43C8-874E-49FCF5FBB01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66A3F16-3D86-43C8-874E-49FCF5FBB01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66A3F16-3D86-43C8-874E-49FCF5FBB01B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
